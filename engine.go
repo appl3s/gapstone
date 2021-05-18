@@ -19,7 +19,6 @@ package gapstone
 import "C"
 
 import (
-	"fmt"
 	"reflect"
 	"unsafe"
 )
