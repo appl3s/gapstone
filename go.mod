@@ -1,3 +1,3 @@
-module github.com/knightsc/gapstone
+module github.com/appl3s/gapstone
 
 go 1.13
